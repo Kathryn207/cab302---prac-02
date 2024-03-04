@@ -67,7 +67,7 @@ public class ToDoList {
     }
 
     /**
-     * Displays all the items in the list.
+     * Displays all the items in the list.git pull origin master
      */
     public void onShowAllItems() {
         for (int i = 0; i < user.getToDoItems().size(); i++) {
